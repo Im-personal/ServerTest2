@@ -1,3 +1,5 @@
+package main;
+
 import netscape.javascript.JSObject;
 import org.java_websocket.WebSocket;
 import org.java_websocket.handshake.ClientHandshake;
