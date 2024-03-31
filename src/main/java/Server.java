@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 import netscape.javascript.JSObject;
 import org.java_websocket.WebSocket;

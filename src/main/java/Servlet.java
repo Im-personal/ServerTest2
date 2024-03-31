@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 import com.sun.net.httpserver.HttpContext;
 import com.sun.net.httpserver.HttpExchange;
